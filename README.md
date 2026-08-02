@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋, I'm Vincent Chibuike Eke
 
-<!--
-**vincentlawrencesnr/vincentlawrencesnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineer passionate about building modern, responsive, and user-friendly software applications.
+
+I enjoy building solutions with **React, Java, C#, MySQL, JavaScript, HTML, CSS, and Bootstrap**, while continuously improving my skills as a full-stack developer.
+
+I'm currently expanding my knowledge into **Python**, **Flutter**, and **Dart** as I continue growing as a software engineer.
+
+---
