@@ -24,4 +24,81 @@ I enjoy building solutions with **React, Java, C#, MySQL, JavaScript, HTML, CSS,
 
 I'm currently expanding my knowledge into **Python**, **Flutter**, and **Dart** as I continue growing as a software engineer.
 
+
 ---
+
+# 🚀 Featured Projects
+
+## 🍔 InstantBite
+
+A modern food ordering web application built with **React**, **JavaScript**, **Bootstrap**, and **CSS**.
+
+### ✨ Features
+
+- Browse delicious meals
+- Add and remove items from the cart
+- Responsive design
+- Modern UI
+
+🔗 **Live Demo**
+
+https://instant-bite.vercel.app
+
+🔗 **GitHub Repository**
+
+https://github.com/vincentlawrencesnr/InstantBite
+
+---
+
+## 🌙 Moonlight Events
+
+A responsive event management website showcasing beautiful event experiences with modern UI design.
+
+### ✨ Features
+
+- Responsive layout
+- Event showcase
+- Smooth animations
+- Modern design
+
+🔗 **Live Demo**
+
+https://moonlight-events-five.vercel.app
+
+🔗 **GitHub Repository**
+
+https://github.com/vincentlawrencesnr/MoonlightEvents---Festival-App
+
+---
+
+## ✈️ TravelJapa
+
+A desktop travel management system developed with **C#** and **MySQL**.
+
+### ✨ Features
+
+- Customer management
+- Booking management
+- Database integration
+- CRUD operations
+
+---
+
+## 🎵 Java Music Player
+
+A desktop music player built with **JavaFX**.
+
+### ✨ Features
+
+- Play and pause music
+- Progress bar
+- Volume control
+- Playlist support
+
+
+---
+
+# 📊 GitHub Statistics
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vincentlawrencesnr&theme=tokyonight)
+
