@@ -102,3 +102,12 @@ A desktop music player built with **JavaFX**.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vincentlawrencesnr&theme=tokyonight)
 
+
+
+## 📫 Connect With Me
+
+🌐 Portfolio: https://vincenteke.vercel.app
+
+💼 LinkedIn: https://www.linkedin.com/in/vincent-lawrence-9bb9023b4
+
+📧 Email: vincentlawrence077@gmail.com
